@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "9f9a149c3320edd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f46153f848d0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147ed4379a88b7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup DEV Environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2863042cbf081199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/Makemore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04a3a20fd6810577",
+    "type": "split",
+    "children": [
+      {
+        "id": "41c4add174b86ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a5b47a9e8869445",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0591360f2634604",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3df77c3d3e0e276d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88542e7f9c5cd106",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f631d2df534d5af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33c7429bdabc658e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NLP/Makemore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0760cc0e15716862",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NLP/Makemore.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "877d3848ed0e10da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d064c2f69febb9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NLP/Makemore.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a5b47a9e8869445",
+  "lastOpenFiles": [
+    "Machine Learning",
+    "Setup DEV Environment.md",
+    "NLP/Makemore.md",
+    "Tasks.md",
+    "NLP",
+    "Deep Learning",
+    "Computer Vision",
+    "Welcome.md"
+  ]
+}
