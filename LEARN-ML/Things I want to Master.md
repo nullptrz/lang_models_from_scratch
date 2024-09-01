@@ -1,0 +1,11 @@
+
+- [ ] Neural Networks from Scratch
+- [ ] Transformers from Scratch
+- [ ] KNN Algorithm from Scratch
+- [ ] Concepts of PyTorch
+- [ ] Concept of Matrix Multiplication
+- [ ] Concepts of Probabilities
+- [ ] Concepts of Distributions
+- [ ] Computer Vision
+- [ ] NLP
+- [ ] General Machine Learning
